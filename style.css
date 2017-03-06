@@ -1,0 +1,17 @@
+ul{
+	width: 800px;
+	background-color: red;
+}
+ul li {
+	background: #9999ff;
+	border: 1px solid navy;
+	color: navy;
+	font-family: Arial;
+	font-size: 20px;
+	padding: 10px 25px;
+	margin: 3px 0px;
+	width: 100px;
+}
+.headline{
+	background: green;
+}
